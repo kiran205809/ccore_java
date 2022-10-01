@@ -1,6 +1,8 @@
 package oOOPS;
 
 public abstract class myntraAbstract {
+	
+	// We cannot create object for abstract class.
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -25,5 +27,10 @@ public abstract class myntraAbstract {
     	
       System.out.println("Welcome to Myntra");
     }
+
+	public void logout() {
+		// TODO Auto-generated method stub
+		
+	}
 	
 }
